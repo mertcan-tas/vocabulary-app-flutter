@@ -1,4 +1,4 @@
-Vocabulary App - Flutter Vocabulary Learning App
+### Vocabulary App - Flutter Vocabulary Learning App
 
 <p align="center">
 	<img src="assets/preview/preview.jpg"/>
