@@ -11,13 +11,6 @@ Vocabulary App - Flutter Vocabulary Learning App
 - **Isar Database** (v4.0.0)
 - **Flutter SVG** (For vector graphics)
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (>=3.19.5)
-- Dart SDK (>=3.3.0)
-- Android Studio/VSCode with Flutter plugin
-
 ### Installation
 1. Clone the repository:
 ```sh
