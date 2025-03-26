@@ -1,20 +1,42 @@
-# flutter_application_2
+Vocabulary App - Flutter Vocabulary Learning App
 
-A new Flutter project.
+<p align="center">
+	<img src="assets/preview/preview.jpg"/>
+</p>
 
-## Getting Started
+## 🛠️ Technologies Used
 
-This project is a starting point for a Flutter application.
+- **Flutter** (v3.19.5)
+- **Dart** (v3.3.0)
+- **Isar Database** (v4.0.0)
+- **Flutter SVG** (For vector graphics)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK (>=3.19.5)
+- Dart SDK (>=3.3.0)
+- Android Studio/VSCode with Flutter plugin
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+```sh
+git clone https://github.com/mertcan-tas/vocabulary-app-flutter.git
+```
 
-```bash
+2. Install dependencies:
+```sh
+flutter pub get
+```
+
+3. Run build_runner for code generation:
+```sh
 flutter pub run build_runner build
 ```
+
+3. Run the app:
+```sh
+flutter run
+```
+
+
